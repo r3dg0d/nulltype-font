@@ -4,7 +4,7 @@ An original chamfered monospace for terminals and code: 9 weights + italics, sou
 
 ![All styles](docs/specimens/styles.png)
 
-> **Status:** 1.000, prepared locally. It is not yet published to GitHub, and it has no release or Pages site yet.
+> **Status:** 1.000 released — see Releases. Site: https://r3dg0d.github.io/nulltype-font/
 
 ## Styles and formats
 9 weights × 2 slopes = **18 static styles**, each as **TTF** (TrueType outlines), **OTF** (CFF outlines), and **WOFF2**, for 54 files. There are also **2 variable fonts** (`wght` 100–900: `NullType[wght]` and `NullType-Italic[wght]`, TTF + WOFF2).

@@ -2,7 +2,7 @@
 
 All notable changes are documented here. The format follows Keep a Changelog. Font versions use `major.minor` (`head.fontRevision` = 1.000).
 
-## [1.000] — unreleased (prepared 2026-10-19)
+## [1.000] — 2026-10-20
 ### Added
 - First release: 9 weights (Thin 100 → Black 900) × upright + italic = 18 static styles.
 - TTF (TrueType outlines), OTF (CFF outlines, subroutinised), WOFF2 for every style.

@@ -1,5 +1,5 @@
 # Maintainer: Vincent Patrick Chambers <192937334+r3dg0d@users.noreply.github.com>
-# Installs the prebuilt release archive. Fill sha256sums from the release's .sha256 file once published.
+# Installs the prebuilt v1.000 release archive.
 pkgname=ttf-nulltype
 pkgver=1.000
 pkgrel=1
@@ -8,7 +8,7 @@ arch=(any)
 url="https://github.com/r3dg0d/nulltype-font"
 license=(OFL-1.1)
 source=("$url/releases/download/v$pkgver/NullType-v$pkgver.zip")
-sha256sums=('SKIP')  # replace with the published checksum before submitting to the AUR
+sha256sums=('34698a47e1700fdaf896299dac1a7afd8486699538a9ba8915558671d9ea277a')
 
 package() {
   cd "NullType-v$pkgver"
