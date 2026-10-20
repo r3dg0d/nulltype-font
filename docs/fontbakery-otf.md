@@ -72,17 +72,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -197,17 +197,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -322,17 +322,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -447,17 +447,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -572,17 +572,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -697,17 +697,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -822,17 +822,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -947,17 +947,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1072,17 +1072,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1197,17 +1197,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1322,17 +1322,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1447,17 +1447,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1572,17 +1572,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1697,17 +1697,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1822,17 +1822,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -1947,17 +1947,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -2072,17 +2072,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 
@@ -2197,17 +2197,17 @@ fontbakery version: 1.1.0
 
 
 * 💥 **ERROR** <p>Failed with KeyError: 'glyf'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
+<pre><code>  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
     subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
+  File &quot;<venv>/lib/python3.13/site-packages/fontbakery/checks/opentype/monospace.py&quot;, line 169, in check_monospace
     num_glyphs = len(ttFont[&quot;glyf&quot;].glyphs)
                      ~~~~~~^^^^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 817, in __getitem__
     table = self._readTable(tag)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/ttFont.py&quot;, line 825, in _readTable
     data = self.reader[tag]
            ~~~~~~~~~~~^^^^^
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
+  File &quot;<venv>/lib/python3.13/site-packages/fontTools/ttLib/sfnt.py&quot;, line 111, in __getitem__
     entry = self.tables[Tag(tag)]
             ~~~~~~~~~~~^^^^^^^^^^
 

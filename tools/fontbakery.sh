@@ -11,3 +11,4 @@ run() { $FB check-universal --loglevel WARN --ghmarkdown "docs/fontbakery-$1.md"
 run ttf fonts/ttf/*.ttf
 run otf fonts/otf/*.otf
 run variable fonts/variable/*.ttf
+sed -i 's#/home/[^/ ]*/#~/#g' docs/fontbakery-*.md  # keep local paths out of committed reports
