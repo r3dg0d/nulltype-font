@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="600"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="233.15" y="280.29" type="line"/>
+      <point x="283.15" y="280.29" type="line"/>
+      <point x="385.65" y="280.29" type="line"/>
+      <point x="385.65" y="326.29" type="line"/>
+      <point x="335.65" y="326.29" type="line"/>
+      <point x="233.15" y="326.29" type="line"/>
+    </contour>
+    <contour>
+      <point x="335.65" y="280.29" type="line"/>
+      <point x="385.65" y="280.29" type="line"/>
+      <point x="402.12" y="373.71" type="line"/>
+      <point x="402.12" y="419.71" type="line"/>
+      <point x="352.12" y="419.71" type="line"/>
+      <point x="335.65" y="326.29" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.62" y="373.71" type="line"/>
+      <point x="299.62" y="373.71" type="line"/>
+      <point x="402.12" y="373.71" type="line"/>
+      <point x="402.12" y="419.71" type="line"/>
+      <point x="352.12" y="419.71" type="line"/>
+      <point x="249.62" y="419.71" type="line"/>
+    </contour>
+    <contour>
+      <point x="233.15" y="280.29" type="line"/>
+      <point x="283.15" y="280.29" type="line"/>
+      <point x="299.62" y="373.71" type="line"/>
+      <point x="299.62" y="419.71" type="line"/>
+      <point x="249.62" y="419.71" type="line"/>
+      <point x="233.15" y="326.29" type="line"/>
+    </contour>
+    <contour>
+      <point x="284.4" y="280.29" type="line"/>
+      <point x="334.4" y="280.29" type="line"/>
+      <point x="350.87" y="373.71" type="line"/>
+      <point x="350.87" y="419.71" type="line"/>
+      <point x="300.87" y="419.71" type="line"/>
+      <point x="284.4" y="326.29" type="line"/>
+    </contour>
+  </outline>
+</glyph>

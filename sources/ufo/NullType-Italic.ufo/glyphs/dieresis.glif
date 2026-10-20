@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="600"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="226.05" y="579.4" type="line"/>
+      <point x="311.01" y="579.4" type="line"/>
+      <point x="311.01" y="663.82" type="line"/>
+      <point x="226.05" y="663.82" type="line"/>
+    </contour>
+    <contour>
+      <point x="420.05" y="579.4" type="line"/>
+      <point x="505.01" y="579.4" type="line"/>
+      <point x="505.01" y="663.82" type="line"/>
+      <point x="420.05" y="663.82" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+name: Glyph / coverage request
+description: Ask for a character or script to be added to NullType
+labels: [coverage]
+body:
+  - type: input
+    id: cps
+    attributes: {label: Code points, placeholder: "U+0100–U+017F"}
+    validations: {required: true}
+  - type: textarea
+    id: why
+    attributes: {label: Use case}

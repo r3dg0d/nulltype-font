@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="600"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="116.5" y="443.68" type="line"/>
+      <point x="204.5" y="443.68" type="line"/>
+      <point x="344.0" y="443.68" type="line"/>
+      <point x="344.0" y="522.53" type="line"/>
+      <point x="256.0" y="522.53" type="line"/>
+      <point x="116.5" y="522.53" type="line"/>
+    </contour>
+    <contour>
+      <point x="256.0" y="0.0" type="line"/>
+      <point x="344.0" y="0.0" type="line"/>
+      <point x="344.0" y="443.68" type="line"/>
+      <point x="344.0" y="522.53" type="line"/>
+      <point x="256.0" y="522.53" type="line"/>
+      <point x="256.0" y="78.85" type="line"/>
+    </contour>
+    <contour>
+      <point x="116.5" y="0.0" type="line"/>
+      <point x="204.5" y="0.0" type="line"/>
+      <point x="483.5" y="0.0" type="line"/>
+      <point x="483.5" y="78.85" type="line"/>
+      <point x="395.5" y="78.85" type="line"/>
+      <point x="116.5" y="78.85" type="line"/>
+    </contour>
+    <contour>
+      <point x="209.5" y="704.44" type="line"/>
+      <point x="209.5" y="625.59" type="line"/>
+      <point x="302.5" y="536.85" type="line"/>
+      <point x="390.5" y="536.85" type="line"/>
+      <point x="390.5" y="615.7" type="line"/>
+      <point x="297.5" y="704.44" type="line"/>
+    </contour>
+  </outline>
+</glyph>

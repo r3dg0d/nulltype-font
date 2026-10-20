@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis" format="2">
+  <advance width="600"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="110.72" y="525.41" type="line"/>
+      <point x="110.72" y="436.47" type="line"/>
+      <point x="212.76" y="0.0" type="line"/>
+      <point x="314.76" y="0.0" type="line"/>
+      <point x="314.76" y="88.94" type="line"/>
+      <point x="212.72" y="525.41" type="line"/>
+    </contour>
+    <contour>
+      <point x="92.48" y="-174.59" type="line"/>
+      <point x="194.48" y="-174.59" type="line"/>
+      <point x="570.72" y="436.47" type="line"/>
+      <point x="570.72" y="525.41" type="line"/>
+      <point x="468.72" y="525.41" type="line"/>
+      <point x="92.48" y="-85.64" type="line"/>
+    </contour>
+    <contour>
+      <point x="2.98" y="-174.59" type="line"/>
+      <point x="104.98" y="-174.59" type="line"/>
+      <point x="194.48" y="-174.59" type="line"/>
+      <point x="194.48" y="-85.64" type="line"/>
+      <point x="92.48" y="-85.64" type="line"/>
+      <point x="2.98" y="-85.64" type="line"/>
+    </contour>
+    <contour>
+      <point x="214.9" y="559.57" type="line"/>
+      <point x="335.26" y="559.57" type="line"/>
+      <point x="335.26" y="672.92" type="line"/>
+      <point x="214.9" y="672.92" type="line"/>
+    </contour>
+    <contour>
+      <point x="393.9" y="559.57" type="line"/>
+      <point x="514.26" y="559.57" type="line"/>
+      <point x="514.26" y="672.92" type="line"/>
+      <point x="393.9" y="672.92" type="line"/>
+    </contour>
+  </outline>
+</glyph>

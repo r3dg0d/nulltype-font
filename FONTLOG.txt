@@ -1,0 +1,17 @@
+FONTLOG for NullType
+================
+An original chamfered monospace for terminals and code: 9 weights + italics, source-preserving ligatures, full box drawing and Powerline.
+
+Basic Font Information
+----------------------
+Generated procedurally by tools/engine.py from sources/skeletons.txt.
+Engine: polyline skeleton on an 8×14 grid → upright rectangular pen (Minkowski hexagons) → pathops union.
+
+ChangeLog
+---------
+2026-10-19 (Vincent Patrick Chambers) NullType 1.000
+- Initial version (not yet published).
+
+Acknowledgements
+----------------
+Designer: Vincent Patrick Chambers — https://github.com/r3dg0d

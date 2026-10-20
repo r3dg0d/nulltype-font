@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="ufo/NullType-ThinItalic.ufo" familyname="NullType" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-ExtraLightItalic.ufo" familyname="NullType" stylename="ExtraLight Italic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-LightItalic.ufo" familyname="NullType" stylename="Light Italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-Italic.ufo" familyname="NullType" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-MediumItalic.ufo" familyname="NullType" stylename="Medium Italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-SemiBoldItalic.ufo" familyname="NullType" stylename="SemiBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-BoldItalic.ufo" familyname="NullType" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-ExtraBoldItalic.ufo" familyname="NullType" stylename="ExtraBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-BlackItalic.ufo" familyname="NullType" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="NullType" stylename="Thin Italic" postscriptfontname="NullType-ThinItalic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="ExtraLight Italic" postscriptfontname="NullType-ExtraLightItalic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Light Italic" postscriptfontname="NullType-LightItalic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Italic" postscriptfontname="NullType-Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Medium Italic" postscriptfontname="NullType-MediumItalic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="SemiBold Italic" postscriptfontname="NullType-SemiBoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Bold Italic" postscriptfontname="NullType-BoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="ExtraBold Italic" postscriptfontname="NullType-ExtraBoldItalic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Black Italic" postscriptfontname="NullType-BlackItalic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

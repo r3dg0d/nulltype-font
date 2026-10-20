@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="600"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="155.47" y="436.47" type="line"/>
+      <point x="257.47" y="436.47" type="line"/>
+      <point x="391.72" y="436.47" type="line"/>
+      <point x="391.72" y="525.41" type="line"/>
+      <point x="289.72" y="525.41" type="line"/>
+      <point x="155.47" y="525.41" type="line"/>
+    </contour>
+    <contour>
+      <point x="212.76" y="0.0" type="line"/>
+      <point x="314.76" y="0.0" type="line"/>
+      <point x="391.72" y="436.47" type="line"/>
+      <point x="391.72" y="525.41" type="line"/>
+      <point x="289.72" y="525.41" type="line"/>
+      <point x="212.76" y="88.94" type="line"/>
+    </contour>
+    <contour>
+      <point x="78.51" y="0.0" type="line"/>
+      <point x="180.51" y="0.0" type="line"/>
+      <point x="449.01" y="0.0" type="line"/>
+      <point x="449.01" y="88.94" type="line"/>
+      <point x="347.01" y="88.94" type="line"/>
+      <point x="78.51" y="88.94" type="line"/>
+    </contour>
+    <contour>
+      <point x="171.63" y="528.13" type="line"/>
+      <point x="273.63" y="528.13" type="line"/>
+      <point x="423.28" y="615.42" type="line"/>
+      <point x="423.28" y="704.36" type="line"/>
+      <point x="321.28" y="704.36" type="line"/>
+      <point x="171.63" y="617.07" type="line"/>
+    </contour>
+    <contour>
+      <point x="321.28" y="704.36" type="line"/>
+      <point x="321.28" y="615.42" type="line"/>
+      <point x="440.13" y="528.13" type="line"/>
+      <point x="542.13" y="528.13" type="line"/>
+      <point x="542.13" y="617.07" type="line"/>
+      <point x="423.28" y="704.36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

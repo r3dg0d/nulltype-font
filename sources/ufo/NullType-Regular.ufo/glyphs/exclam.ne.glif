@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam.ne" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="70.0" y="407.42" type="line"/>
+      <point x="142.0" y="407.42" type="line"/>
+      <point x="646.0" y="407.42" type="line"/>
+      <point x="646.0" y="473.66" type="line"/>
+      <point x="574.0" y="473.66" type="line"/>
+      <point x="70.0" y="473.66" type="line"/>
+    </contour>
+    <contour>
+      <point x="70.0" y="226.34" type="line"/>
+      <point x="142.0" y="226.34" type="line"/>
+      <point x="646.0" y="226.34" type="line"/>
+      <point x="646.0" y="292.58" type="line"/>
+      <point x="574.0" y="292.58" type="line"/>
+      <point x="70.0" y="292.58" type="line"/>
+    </contour>
+    <contour>
+      <point x="312.5" y="45.27" type="line"/>
+      <point x="384.5" y="45.27" type="line"/>
+      <point x="646.0" y="316.88" type="line"/>
+      <point x="646.0" y="383.12" type="line"/>
+      <point x="574.0" y="383.12" type="line"/>
+      <point x="312.5" y="111.51" type="line"/>
+    </contour>
+  </outline>
+</glyph>

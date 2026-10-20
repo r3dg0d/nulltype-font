@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+  </axes>
+  <sources>
+    <source filename="ufo/NullType-Thin.ufo" familyname="NullType" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-ExtraLight.ufo" familyname="NullType" stylename="ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-Light.ufo" familyname="NullType" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-Regular.ufo" familyname="NullType" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-Medium.ufo" familyname="NullType" stylename="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-SemiBold.ufo" familyname="NullType" stylename="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-Bold.ufo" familyname="NullType" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-ExtraBold.ufo" familyname="NullType" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+    <source filename="ufo/NullType-Black.ufo" familyname="NullType" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="NullType" stylename="Thin" postscriptfontname="NullType-Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="ExtraLight" postscriptfontname="NullType-ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Light" postscriptfontname="NullType-Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Regular" postscriptfontname="NullType-Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Medium" postscriptfontname="NullType-Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="SemiBold" postscriptfontname="NullType-SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Bold" postscriptfontname="NullType-Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="ExtraBold" postscriptfontname="NullType-ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+    <instance familyname="NullType" stylename="Black" postscriptfontname="NullType-Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

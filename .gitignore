@@ -1,0 +1,7 @@
+build/
+site/dist/
+__pycache__/
+.pytest_cache/
+result
+result-*
+*.zip

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.dblarrow" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="15.85" y="439.35" type="line"/>
+      <point x="33.85" y="439.35" type="line"/>
+      <point x="454.35" y="439.35" type="line"/>
+      <point x="454.35" y="455.91" type="line"/>
+      <point x="436.35" y="455.91" type="line"/>
+      <point x="15.85" y="455.91" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18.58" y="244.09" type="line"/>
+      <point x="-0.58" y="244.09" type="line"/>
+      <point x="419.92" y="244.09" type="line"/>
+      <point x="419.92" y="260.65" type="line"/>
+      <point x="401.92" y="260.65" type="line"/>
+      <point x="-18.58" y="260.65" type="line"/>
+    </contour>
+    <contour>
+      <point x="296.42" y="602.37" type="line"/>
+      <point x="296.42" y="585.81" type="line"/>
+      <point x="529.63" y="341.72" type="line"/>
+      <point x="547.63" y="341.72" type="line"/>
+      <point x="547.63" y="358.28" type="line"/>
+      <point x="314.42" y="602.37" type="line"/>
+    </contour>
+    <contour>
+      <point x="210.34" y="97.63" type="line"/>
+      <point x="228.34" y="97.63" type="line"/>
+      <point x="547.63" y="341.72" type="line"/>
+      <point x="547.63" y="358.28" type="line"/>
+      <point x="529.63" y="358.28" type="line"/>
+      <point x="210.34" y="114.19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

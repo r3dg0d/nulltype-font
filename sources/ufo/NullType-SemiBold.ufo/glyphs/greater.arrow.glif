@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.arrow" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-61.0" y="305.53" type="line"/>
+      <point x="41.0" y="305.53" type="line"/>
+      <point x="530.0" y="305.53" type="line"/>
+      <point x="530.0" y="394.47" type="line"/>
+      <point x="428.0" y="394.47" type="line"/>
+      <point x="-61.0" y="394.47" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.0" y="569.06" type="line"/>
+      <point x="249.0" y="480.12" type="line"/>
+      <point x="428.0" y="305.53" type="line"/>
+      <point x="530.0" y="305.53" type="line"/>
+      <point x="530.0" y="394.47" type="line"/>
+      <point x="351.0" y="569.06" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.0" y="130.94" type="line"/>
+      <point x="351.0" y="130.94" type="line"/>
+      <point x="530.0" y="305.53" type="line"/>
+      <point x="530.0" y="394.47" type="line"/>
+      <point x="428.0" y="394.47" type="line"/>
+      <point x="249.0" y="219.88" type="line"/>
+    </contour>
+  </outline>
+</glyph>

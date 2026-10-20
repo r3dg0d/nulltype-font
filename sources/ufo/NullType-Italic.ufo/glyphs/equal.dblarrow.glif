@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.dblarrow" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="152.1" y="407.42" type="line"/>
+      <point x="224.1" y="407.42" type="line"/>
+      <point x="679.6" y="407.42" type="line"/>
+      <point x="679.6" y="473.66" type="line"/>
+      <point x="607.6" y="473.66" type="line"/>
+      <point x="152.1" y="473.66" type="line"/>
+    </contour>
+    <contour>
+      <point x="120.17" y="226.34" type="line"/>
+      <point x="192.17" y="226.34" type="line"/>
+      <point x="647.67" y="226.34" type="line"/>
+      <point x="647.67" y="292.58" type="line"/>
+      <point x="575.67" y="292.58" type="line"/>
+      <point x="120.17" y="292.58" type="line"/>
+    </contour>
+  </outline>
+</glyph>

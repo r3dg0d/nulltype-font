@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SF190000" format="2">
+  <advance width="600"/>
+  <unicode hex="2561"/>
+  <outline>
+    <contour>
+      <point x="230.0" y="280.0" type="line"/>
+      <point x="370.0" y="280.0" type="line"/>
+      <point x="370.0" y="950" type="line"/>
+      <point x="230.0" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="230.0" y="-250" type="line"/>
+      <point x="370.0" y="-250" type="line"/>
+      <point x="370.0" y="420.0" type="line"/>
+      <point x="230.0" y="420.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="215.0" type="line"/>
+      <point x="435.0" y="215.0" type="line"/>
+      <point x="435.0" y="355.0" type="line"/>
+      <point x="0" y="355.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="345.0" type="line"/>
+      <point x="435.0" y="345.0" type="line"/>
+      <point x="435.0" y="485.0" type="line"/>
+      <point x="0" y="485.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

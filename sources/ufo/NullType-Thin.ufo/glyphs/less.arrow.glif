@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.arrow" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="70.0" y="341.72" type="line"/>
+      <point x="88.0" y="341.72" type="line"/>
+      <point x="309.0" y="536.99" type="line"/>
+      <point x="309.0" y="553.55" type="line"/>
+      <point x="291.0" y="553.55" type="line"/>
+      <point x="70.0" y="358.28" type="line"/>
+    </contour>
+    <contour>
+      <point x="70.0" y="358.28" type="line"/>
+      <point x="70.0" y="341.72" type="line"/>
+      <point x="291.0" y="146.45" type="line"/>
+      <point x="309.0" y="146.45" type="line"/>
+      <point x="309.0" y="163.01" type="line"/>
+      <point x="88.0" y="358.28" type="line"/>
+    </contour>
+    <contour>
+      <point x="70.0" y="341.72" type="line"/>
+      <point x="88.0" y="341.72" type="line"/>
+      <point x="619.0" y="341.72" type="line"/>
+      <point x="619.0" y="358.28" type="line"/>
+      <point x="601.0" y="358.28" type="line"/>
+      <point x="70.0" y="358.28" type="line"/>
+    </contour>
+  </outline>
+</glyph>

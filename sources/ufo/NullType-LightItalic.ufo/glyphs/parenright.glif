@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="600"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="264.27" y="793.43" type="line"/>
+      <point x="264.27" y="747.43" type="line"/>
+      <point x="393.3" y="607.29" type="line"/>
+      <point x="443.3" y="607.29" type="line"/>
+      <point x="443.3" y="653.29" type="line"/>
+      <point x="314.27" y="793.43" type="line"/>
+    </contour>
+    <contour>
+      <point x="294.46" y="46.71" type="line"/>
+      <point x="344.46" y="46.71" type="line"/>
+      <point x="443.3" y="607.29" type="line"/>
+      <point x="443.3" y="653.29" type="line"/>
+      <point x="393.3" y="653.29" type="line"/>
+      <point x="294.46" y="92.71" type="line"/>
+    </contour>
+    <contour>
+      <point x="116.0" y="-93.43" type="line"/>
+      <point x="166.0" y="-93.43" type="line"/>
+      <point x="344.46" y="46.71" type="line"/>
+      <point x="344.46" y="92.71" type="line"/>
+      <point x="294.46" y="92.71" type="line"/>
+      <point x="116.0" y="-47.43" type="line"/>
+    </contour>
+  </outline>
+</glyph>

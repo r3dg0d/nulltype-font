@@ -1,0 +1,18 @@
+{
+ "title": "NullType — an original chamfered monospace for code",
+ "brand": "NullType_",
+ "body_class": "nt",
+ "headline": "> monospace, chamfered, null-dotted.",
+ "lede": "A 600-unit monospace built from stroke skeletons and a rectangular pen. Bars thin out against stems as the weight rises, so heavy code stays open. Ligatures for ->, =>, != and == are one-to-one, so your source text never changes.",
+ "fg": "#c8ffe0", "bg": "#05090a",
+ "weight_sample": "fn main() -> Result<(), Err>",
+ "presets": ["if (x != null && y >= 0) { return a => b; }", "const ok = items.filter(i => i.id !== 0O0);", "$ git log --oneline | head -n 5", "0O il1I| {}[]() ;: ,. -> <- => == !=", "ÀÉÎÕÜ àéîõü çñß ≠ ≤ ≥ ∞"],
+ "features": [["calt", "Code ligatures (one-to-one)", true], ["zero", "Slashed zero", false], ["ss01", "Plain zero", false]],
+ "sections": [
+  ["Skeleton + pen", "<p>Each glyph is a polyline on an 8×14 grid with 45° chamfers, in <code>sources/skeletons.txt</code>. Every segment is swept by an upright rectangular pen (a Minkowski hexagon), and the static fonts union those strokes with pathops. Bars get progressively thinner than stems above Regular, and the stem box is inset by half a stem, so every weight fills the same cell. Italics shear the skeleton 10°, not the pen.</p><img src='styles.png' alt='All 18 NullType styles'>"],
+  ["Source-preserving ligatures", "<p><code>-&gt; &lt;- =&gt; == !=</code> are drawn as pairs of cell-wide pieces through contextual alternates. The glyph count, advances, and cluster mapping stay identical to the input, and the test suite proves it for every style. <code>===</code> and <code>!==</code> are deliberately left alone. Turn it all off with <code>font-feature-settings: \"calt\" 0</code>.</p><img src='confusables.png' alt='Confusables'>"],
+  ["Terminal native", "<p>Full Box Drawing block (U+2500–257F), Block Elements with hatched shades, and Powerline U+E0A0–E0A2 and U+E0B0–E0B3, all spanning the full 1200-unit line cell so terminal grids connect.</p><img src='terminal.png' alt='Terminal specimen'>"]
+ ],
+ "install_html": "<pre>mkdir -p ~/.local/share/fonts/NullType\nunzip NullType-v1.000.zip -d ~/.local/share/fonts/NullType\nfc-cache -f ~/.local/share/fonts\nfc-match 'NullType:style=Regular'</pre><p>Editor/terminal snippets live in <code>docs/terminals.md</code>. Nix: <code>nix build github:r3dg0d/nulltype-font</code>.</p>",
+ "footer": "NullType · OFL-1.1 · /dev/null never looked this sharp"
+}

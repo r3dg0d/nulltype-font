@@ -1,0 +1,35 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# Programming ligatures. Every rule is a one-to-one contextual substitution:
+# the glyph count, advances and cluster mapping never change, so copy/paste,
+# cursor movement and search always see the original source characters.
+lookup ARROWS {
+    ignore sub equal equal' equal;
+    ignore sub equal' equal equal;
+    ignore sub equal equal' greater;
+    ignore sub exclam' equal equal;
+    sub hyphen' greater by hyphen.arrow;
+    sub hyphen.arrow greater' by greater.arrow;
+    sub less' hyphen by less.arrow;
+    sub less.arrow hyphen' by hyphen.larrow;
+    sub equal' greater by equal.dblarrow;
+    sub equal.dblarrow greater' by greater.dblarrow;
+    sub exclam' equal by exclam.ne;
+    sub exclam.ne equal' by equal.ne;
+    sub equal' equal by equal.eq1;
+    sub equal.eq1 equal' by equal.eq2;
+} ARROWS;
+
+feature calt {
+    lookup ARROWS;
+} calt;
+
+feature zero {
+    sub zero by zero.slash;
+} zero;
+
+feature ss01 {
+    featureNames { name "Plain zero"; };
+    sub zero by zero.plain;
+} ss01;

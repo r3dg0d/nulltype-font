@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="600"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="462.17" y="602.37" type="line"/>
+      <point x="462.17" y="585.81" type="line"/>
+      <point x="564.06" y="536.99" type="line"/>
+      <point x="582.06" y="536.99" type="line"/>
+      <point x="582.06" y="553.55" type="line"/>
+      <point x="480.17" y="602.37" type="line"/>
+    </contour>
+    <contour>
+      <point x="241.17" y="585.81" type="line"/>
+      <point x="259.17" y="585.81" type="line"/>
+      <point x="480.17" y="585.81" type="line"/>
+      <point x="480.17" y="602.37" type="line"/>
+      <point x="462.17" y="602.37" type="line"/>
+      <point x="241.17" y="602.37" type="line"/>
+    </contour>
+    <contour>
+      <point x="122.06" y="536.99" type="line"/>
+      <point x="140.06" y="536.99" type="line"/>
+      <point x="259.17" y="585.81" type="line"/>
+      <point x="259.17" y="602.37" type="line"/>
+      <point x="241.17" y="602.37" type="line"/>
+      <point x="122.06" y="553.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="96.24" y="390.54" type="line"/>
+      <point x="114.24" y="390.54" type="line"/>
+      <point x="140.06" y="536.99" type="line"/>
+      <point x="140.06" y="553.55" type="line"/>
+      <point x="122.06" y="553.55" type="line"/>
+      <point x="96.24" y="407.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="96.24" y="407.1" type="line"/>
+      <point x="96.24" y="390.54" type="line"/>
+      <point x="198.13" y="341.72" type="line"/>
+      <point x="216.13" y="341.72" type="line"/>
+      <point x="216.13" y="358.28" type="line"/>
+      <point x="114.24" y="407.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="198.13" y="341.72" type="line"/>
+      <point x="216.13" y="341.72" type="line"/>
+      <point x="437.13" y="341.72" type="line"/>
+      <point x="437.13" y="358.28" type="line"/>
+      <point x="419.13" y="358.28" type="line"/>
+      <point x="198.13" y="358.28" type="line"/>
+    </contour>
+    <contour>
+      <point x="419.13" y="358.28" type="line"/>
+      <point x="419.13" y="341.72" type="line"/>
+      <point x="521.02" y="292.9" type="line"/>
+      <point x="539.02" y="292.9" type="line"/>
+      <point x="539.02" y="309.46" type="line"/>
+      <point x="437.13" y="358.28" type="line"/>
+    </contour>
+    <contour>
+      <point x="495.2" y="146.45" type="line"/>
+      <point x="513.2" y="146.45" type="line"/>
+      <point x="539.02" y="292.9" type="line"/>
+      <point x="539.02" y="309.46" type="line"/>
+      <point x="521.02" y="309.46" type="line"/>
+      <point x="495.2" y="163.01" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.09" y="97.63" type="line"/>
+      <point x="394.09" y="97.63" type="line"/>
+      <point x="513.2" y="146.45" type="line"/>
+      <point x="513.2" y="163.01" type="line"/>
+      <point x="495.2" y="163.01" type="line"/>
+      <point x="376.09" y="114.19" type="line"/>
+    </contour>
+    <contour>
+      <point x="155.09" y="97.63" type="line"/>
+      <point x="173.09" y="97.63" type="line"/>
+      <point x="394.09" y="97.63" type="line"/>
+      <point x="394.09" y="114.19" type="line"/>
+      <point x="376.09" y="114.19" type="line"/>
+      <point x="155.09" y="114.19" type="line"/>
+    </contour>
+    <contour>
+      <point x="53.2" y="163.01" type="line"/>
+      <point x="53.2" y="146.45" type="line"/>
+      <point x="155.09" y="97.63" type="line"/>
+      <point x="173.09" y="97.63" type="line"/>
+      <point x="173.09" y="114.19" type="line"/>
+      <point x="71.2" y="163.01" type="line"/>
+    </contour>
+    <contour>
+      <point x="239.77" y="-48.82" type="line"/>
+      <point x="257.77" y="-48.82" type="line"/>
+      <point x="395.49" y="732.26" type="line"/>
+      <point x="395.49" y="748.82" type="line"/>
+      <point x="377.49" y="748.82" type="line"/>
+      <point x="239.77" y="-32.26" type="line"/>
+    </contour>
+  </outline>
+</glyph>

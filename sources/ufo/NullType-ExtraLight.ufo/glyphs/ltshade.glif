@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ltshade" format="2">
+  <advance width="600"/>
+  <unicode hex="2591"/>
+  <outline>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="124.0" y="950" type="line"/>
+      <point x="100.0" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="324.0" y="950" type="line"/>
+      <point x="300.0" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="524.0" y="950" type="line"/>
+      <point x="500.0" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.0" y="-250" type="line"/>
+      <point x="124.0" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="300.0" y="-250" type="line"/>
+      <point x="324.0" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="500.0" y="-250" type="line"/>
+      <point x="524.0" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

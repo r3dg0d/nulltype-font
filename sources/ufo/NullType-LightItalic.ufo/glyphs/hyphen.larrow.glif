@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen.larrow" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-17.37" y="327.0" type="line"/>
+      <point x="32.63" y="327.0" type="line"/>
+      <point x="496.38" y="327.0" type="line"/>
+      <point x="496.38" y="373.0" type="line"/>
+      <point x="446.38" y="373.0" type="line"/>
+      <point x="-17.37" y="373.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

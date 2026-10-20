@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="600"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="120.78" y="-45.27" type="line"/>
+      <point x="192.78" y="-45.27" type="line"/>
+      <point x="208.74" y="45.27" type="line"/>
+      <point x="208.74" y="111.51" type="line"/>
+      <point x="136.74" y="111.51" type="line"/>
+      <point x="120.78" y="20.97" type="line"/>
+    </contour>
+    <contour>
+      <point x="56.31" y="-135.81" type="line"/>
+      <point x="128.31" y="-135.81" type="line"/>
+      <point x="192.78" y="-45.27" type="line"/>
+      <point x="192.78" y="20.97" type="line"/>
+      <point x="120.78" y="20.97" type="line"/>
+      <point x="56.31" y="-69.57" type="line"/>
+    </contour>
+    <contour>
+      <point x="314.78" y="-45.27" type="line"/>
+      <point x="386.78" y="-45.27" type="line"/>
+      <point x="402.74" y="45.27" type="line"/>
+      <point x="402.74" y="111.51" type="line"/>
+      <point x="330.74" y="111.51" type="line"/>
+      <point x="314.78" y="20.97" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.31" y="-135.81" type="line"/>
+      <point x="322.31" y="-135.81" type="line"/>
+      <point x="386.78" y="-45.27" type="line"/>
+      <point x="386.78" y="20.97" type="line"/>
+      <point x="314.78" y="20.97" type="line"/>
+      <point x="250.31" y="-69.57" type="line"/>
+    </contour>
+  </outline>
+</glyph>

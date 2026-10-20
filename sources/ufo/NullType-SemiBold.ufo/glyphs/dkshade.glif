@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dkshade" format="2">
+  <advance width="600"/>
+  <unicode hex="2593"/>
+  <outline>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="107.5" y="950" type="line"/>
+      <point x="37.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="182.5" y="950" type="line"/>
+      <point x="112.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="257.5" y="950" type="line"/>
+      <point x="187.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="332.5" y="950" type="line"/>
+      <point x="262.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="407.5" y="950" type="line"/>
+      <point x="337.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="482.5" y="950" type="line"/>
+      <point x="412.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="557.5" y="950" type="line"/>
+      <point x="487.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-250" type="line"/>
+      <point x="32.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="562.5" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="37.5" y="-250" type="line"/>
+      <point x="107.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="112.5" y="-250" type="line"/>
+      <point x="182.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="187.5" y="-250" type="line"/>
+      <point x="257.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="262.5" y="-250" type="line"/>
+      <point x="332.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="337.5" y="-250" type="line"/>
+      <point x="407.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="412.5" y="-250" type="line"/>
+      <point x="482.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="487.5" y="-250" type="line"/>
+      <point x="557.5" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="562.5" y="-250" type="line"/>
+      <point x="600" y="-250" type="line"/>
+      <point x="600" y="950" type="line"/>
+      <point x="600" y="950" type="line"/>
+    </contour>
+  </outline>
+</glyph>

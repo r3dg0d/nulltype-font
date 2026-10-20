@@ -1,0 +1,18 @@
+name: Bug report
+description: Rendering, metrics, metadata or install problem in NullType
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes: {label: "NullType version", placeholder: "1.000"}
+    validations: {required: true}
+  - type: dropdown
+    id: format
+    attributes: {label: Format, options: [TTF, OTF, WOFF2, Variable TTF, Variable WOFF2]}
+  - type: input
+    id: style
+    attributes: {label: Style(s), placeholder: "Bold Italic"}
+  - type: textarea
+    id: what
+    attributes: {label: What happened, description: "Include the app, OS, rasteriser and size (px/pt). Screenshots help."}
+    validations: {required: true}
