@@ -12,42 +12,8 @@ fontbakery version: 1.1.0
 
 
 
-<details><summary>[5] NullType-Italic[wght].ttf</summary>
+<details><summary>[4] NullType-Italic[wght].ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -247,42 +213,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 </div>
 </details>
 
-<details><summary>[5] NullType[wght].ttf</summary>
+<details><summary>[4] NullType[wght].ttf</summary>
 <div>
-<details>
-    <summary>💥 <b>ERROR</b> Familyname must be unique according to namecheck.fontdata.com <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#fontdata-namecheck">fontdata_namecheck</a></summary>
-    <div>
-
-
-> 
-> We need to check names are not already used, and today the best place to check
-> that is http://namecheck.fontdata.com
-> 
-
-
-
-
-> Original proposal: https://github.com/fonttools/fontbakery/issues/494
-
-
-
-
-
-* 💥 **ERROR** <p>Failed with KeyError: 'data'</p>
-<pre><code>  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checkrunner.py&quot;, line 223, in _run_check
-    subresults = list(subresults)
-  File &quot;/home/r3dg0d/.cache/tripletype-fb/lib/python3.13/site-packages/fontbakery/checks/fontdata_namecheck.py&quot;, line 24, in check_fontdata_namecheck
-    if data[&quot;data&quot;][&quot;confidence&quot;][&quot;1.0&quot;] &gt; 0:
-       ~~~~^^^^^^^^
-
-</code></pre>
- [code: failed-check]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Checking correctness of monospaced metadata. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.html#opentype-monospace">opentype/monospace</a></summary>
     <div>
@@ -489,8 +421,8 @@ Please read <a href="https://github.com/fonttools/fonttools/issues/3014">https:/
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 2 | 0 | 0 | 8 | 43 | 6 | 183 | 0 | 
-| 1% | 0% | 0% | 3% | 18% | 2% | 76% | 0% | 
+| 0 | 0 | 0 | 8 | 43 | 6 | 185 | 0 | 
+| 0% | 0% | 0% | 3% | 18% | 2% | 76% | 0% | 
 
 
 
